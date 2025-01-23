@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+### Working world:
+- **Status –** Completed 'Google Data Analytics Professional Certificate' 📈
+- **Industry Interests –** Public Services | Renewable Energy | Personal & Financial Health
+- **Skillsets –** Data Analytics | Digital Advertising
+
+### Other:
+- **Leisurely Joys –** Ultimate Frisbee 🥏 | Pop / Pop-Rock 🎧 | Reading 📚
+
 <!--
 **alecsmith1/alecsmith1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

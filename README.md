@@ -1,9 +1,9 @@
-#### About my work:
+#### **About my work:**
 - **Status –** Completed 'Google Data Analytics Professional Certificate' 📈
 - **Industry Interests –** Public Services | Renewable Energy | Personal & Financial Health
 - **Skillsets –** Data Analytics | Digital Advertising
 
-#### Other:
+#### **Other:**
 - **Leisurely Joys –** Ultimate Frisbee 🥏 | Pop / Pop-Rock 🎧 | Reading 📚
 
 <!--

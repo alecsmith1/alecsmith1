@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ### About my work:
 - **Status –** Completed 'Google Data Analytics Professional Certificate' 📈
 - **Industry Interests –** Public Services | Renewable Energy | Personal & Financial Health

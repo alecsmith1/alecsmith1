@@ -3,7 +3,7 @@
 - **Industry Interests –** Public Services | Renewable Energy | Personal & Financial Health
 - **Skillsets –** Data Analytics | Digital Advertising
 
-### Other:
+#### Other:
 - **Leisurely Joys –** Ultimate Frisbee 🥏 | Pop / Pop-Rock 🎧 | Reading 📚
 
 <!--
